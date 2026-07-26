@@ -1,2 +1,2 @@
 # data-engineering-camp
-For leaning purposes
+For learning purposes
